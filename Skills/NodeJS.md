@@ -1,42 +1,42 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Strong and weak sides of node.js e
+  - Stateful and stateless servers e
+  - Nonblocking I/O and blocking code e
+  - Event loop phases e
+  - Event loop microtasks and macrotasks e
+  - Garbage collection k
+  - Node.js LTS schedule e
+  - I/O-bound, CPU-bound, memory-bound tasks e
+  - Interactive applications (close to real-time) e
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
-  - Caching in CJS and ESM
-  - Modules as singletons
-  - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
-  - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
-  - DI containers
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - CommonJS modules e
+  - ECMAScript modules e
+  - Module `node:module` k
+  - Caching in CJS and ESM k
+  - Modules as singletons e
+  - Contexts and scripts module `node:vm` k
+  - Dependencies: `npm`, `node_modules` e
+  - Files `package.json`, `package-lock.json` e
+  - Module-based permissions model h
+  - Isolation with modularity e
+  - Dependency injection e
+  - DI containers e
+  - Coupling and cohesion e
+  - Framework agnostic approach e
 - Environment
-  - Command line arguments
-  - Node.js CLI
-  - Process-based permissions
-  - Graceful shutdown
-  - Clustering
-  - Watch filesystem changes with --watch
+  - Command line arguments e
+  - Node.js CLI e
+  - Process-based permissions e
+  - Graceful shutdown e
+  - Clustering e
+  - Watch filesystem changes with --watch e
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
-  - Password hashing with crypto.scrypt
+  - Streams API e
+  - Web Streams API e
+  - Crypto API e
+  - Password hashing with crypto.scrypt k
   - Web Crypto API
   - File system API (sync and async)
   - Copy folder recursively
@@ -124,7 +124,7 @@
   - Memory leaks
   - Resource leaks
   - Data race
-- Integrations and bindings
+- Integrations and bindings h
   - Native addons
   - `C` and `C++` addons
   - `Rust` addons
