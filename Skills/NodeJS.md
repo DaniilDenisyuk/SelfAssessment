@@ -1,51 +1,51 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Strong and weak sides of node.js e
+  - Stateful and stateless servers e
+  - Nonblocking I/O and blocking code e
+  - Event loop phases e
+  - Event loop microtasks and macrotasks e
+  - Garbage collection e
+  - Node.js LTS schedule e
+  - I/O-bound, CPU-bound, memory-bound tasks e
+  - Interactive applications (close to real-time) e
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
-  - Caching in CJS and ESM
-  - Modules as singletons
-  - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - CommonJS modules e
+  - ECMAScript modules e
+  - Module `node:module` e
+  - Caching in CJS and ESM e
+  - Modules as singletons e
+  - Contexts and scripts module `node:vm` e
+  - Dependencies: `npm`, `node_modules` e
+  - Files `package.json`, `package-lock.json` e
   - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
-  - DI containers
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - Isolation with modularity e
+  - Dependency injection e
+  - DI containers e
+  - Coupling and cohesion e
+  - Framework agnostic approach e
 - Environment
-  - Command line arguments
-  - Node.js CLI
-  - Process-based permissions
-  - Graceful shutdown
-  - Clustering
-  - Watch filesystem changes with --watch
+  - Command line arguments e
+  - Node.js CLI e
+  - Process-based permissions e
+  - Graceful shutdown e
+  - Clustering e
+  - Watch filesystem changes with --watch e
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
-  - Password hashing with crypto.scrypt
-  - Web Crypto API
-  - File system API (sync and async)
-  - Copy folder recursively
-  - Worker threads
+  - Streams API e
+  - Web Streams API e
+  - Crypto API e
+  - Password hashing with crypto.scrypt e
+  - Web Crypto API e
+  - File system API (sync and async) e
+  - Copy folder recursively e
+  - Worker threads e
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici e
   - async_hooks
-  - AsyncLocalStorage
-  - AsyncResource
+  - AsyncLocalStorage e
+  - AsyncResource h
   - Deprecated domain API
   - Node.js single executable
   - SharedArrayBuffer
@@ -65,41 +65,41 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API e
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
-  - SSE
-  - HTTP/3 (QUIC)
+  - HTTP(S) e
+  - TCP/SSL k
+  - UDP k
+  - TLS k
+  - Websocket e
+  - SSE e
+  - HTTP/3 (QUIC) h
   - Long polling
-  - REST
-  - RPC
+  - REST e
+  - RPC e
   - Routing
-  - DoS
-  - DDoS
+  - DoS e
+  - DDoS e
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - SQL injection
+  - DNS e
+  - SQL injection e
   - noDelay
-  - keep-alive
+  - keep-alive e
   - IP sticky sessions
 - Technique and tools
-  - Native test runner
+  - Native test runner e
   - Logging
   - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
-  - Transform
+  - Testing e
+  - CI/CD e
+  - Readable e
+  - Writable e
+  - Transform e
   - Back pressure
-  - Buffer
-  - Console
+  - Buffer e
+  - Console e
   - Inspector
 - Data access
   - Data access layer
@@ -107,16 +107,16 @@
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
+  - CRUD e
   - DTO
 - Error handling and debugging
-  - `Error`
-  - `error.cause`
-  - `error.code`
-  - `error.message`
-  - `error.stack`
-  - `Error.captureStackTrace`
-  - How to avoid mixins
+  - `Error` e
+  - `error.cause` k
+  - `error.code` e
+  - `error.message` e
+  - `error.stack` e
+  - `Error.captureStackTrace` k
+  - How to avoid mixins e
   - Uncaught exceptions
   - Heap dump
   - Debugging tools
