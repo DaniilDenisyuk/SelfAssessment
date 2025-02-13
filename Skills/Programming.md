@@ -32,115 +32,115 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
+  - Value e
+  - Identifier e
+  - Variable e
+  - Constant e
+  - Scalar e
+  - Literal e
+  - Expression e
+  - Heap e
+  - Function e
+  - Procedure e
+  - Method e
+  - Class e
+  - Prototype e
+  - Event e
+  - Type e
+  - Flag e
+  - Lexical scope e
+  - Code block e
+  - Conditions e
+  - Loops e
+  - Assignment e
+  - Regular expression e
+  - Interface e
+  - Namespaces e
+  - Call stack e
+  - Naming conventions e
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
-  - Fail-fast
+  - Camel case e
+  - Snake case e
+  - Kebab case e
+  - Trailing commas e
+  - Return early e
+  - Fail-fast e
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
-  - Nominal typing
-  - Structural typing
-  - Explicit typing
-  - Type inference
-  - Covariance
-  - Contravariance
+  - Primitive types e
+  - Reference types e
+  - Type systems e
+  - Strong typing e
+  - Weak typing e
+  - Duck typing e
+  - Static typing e
+  - Dynamic typing e
+  - Nominal typing k
+  - Structural typing e
+  - Explicit typing e
+  - Type inference e
+  - Covariance k
+  - Contravariance k
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
-  - Currying
-  - Higher order
-  - Recursion
-  - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
-  - Memoize
-  - Wrapper
-  - Functor
-  - Monad
-  - Monoid
-  - Generator
-  - Coroutine
+  - Signature e
+  - Argument e
+  - Parameter e
+  - Pure function e
+  - Lambda expression e
+  - Side effects e
+  - Closure e
+  - Partial application e
+  - Currying e
+  - Higher order e
+  - Recursion e
+  - Tail call optimisation e
+  - Callback e
+  - Listener e
+  - Composition e
+  - Pipe e
+  - Memoize e
+  - Wrapper e
+  - Functor k
+  - Monad k
+  - Monoid k
+  - Generator e
+  - Coroutine e
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
-  - JSON5
-  - YAML
+  - Array e
+  - Structure e
+  - Record e
+  - Enum e
+  - Instance e
+  - Object e
+  - Collection e
+  - Set e
+  - Hash table e
+  - Linked list e
+  - Doubly list e
+  - Unrolled list e
+  - Circular list e
+  - Queue e
+  - Stack e
+  - Deque e
+  - Tree e
+  - Graph e
+  - Iterator e
+  - Mutable state e
+  - Immutable state e
+  - Serialization e
+  - String parsing e
+  - JSON e
+  - JSON5 e
+  - YAML e
 - Networking
-  - DNS
+  - DNS e
   - CDN
   - CORS
   - IPv4
   - IPv6
   - NAT
-  - URL
-  - URN
-  - URI
+  - URL e
+  - URN e
+  - URI e
 - Process and tools
   - Compiler
   - Just-in-time compilation
@@ -222,7 +222,7 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII e
   - Escape sequence
   - RFC
   - IETF
